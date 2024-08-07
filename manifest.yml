@@ -1,0 +1,5 @@
+name: Example Static OOD App
+description: Displays the result of the ls command in Open OnDemand
+icon: fas://cog #defaults to 'cog'
+category: Files
+subcategory: Utilities
